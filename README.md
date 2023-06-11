@@ -13,25 +13,8 @@ https://github.com/alena-shs/fakestoreapi-tests - a demo project with testing an
 https://github.com/alena-shs/antimine-mobile-tests - a demo project with testing Antimine mobile game test
 
 ### Languages/Tools
-
-#### Programming languages
-+ Java (my favorite)
-+ Python
-+ SQL
-+ Bash
-
-### Frameworks for testing
-+ Gradle
-+ Selenium / Selenide
-+ JUnit5
-+ REST Assured
-
-### Other tools
-+ Jira
-+ Jenkins
-+ Allure Reports
-+ Allure TestOPs
-+ Selenoid
-+ Postman
++ Languages: Java, SQL, Bash, Python
++ Frameworks: Gradle, Selenium / Selenide, JUnit5, REST Assured
++ Other tools: Jira, Jenkins, Allure Reports, Allure TestOPs, Selenoid, Browserstack, Postman
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alena-shs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
