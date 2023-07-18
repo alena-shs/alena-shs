@@ -4,7 +4,7 @@
 
 
 ### About me
-:coffee: I have over 2 years of proven experience in the IT industry, specializing in web, mobile, and API testing, and I currently work for [AIX](https://aix.kz/) stock market.
+:coffee: I have over 2 years of proven experience in the IT industry, specializing in web, mobile, and API testing, and I currently work for [Astana International Exchange](https://aix.kz/) stock market.
 
 :classical_building: I've graduated from [Beijing University of Posts and telecommunications](https://www.bupt.edu.cn/#) with a Bachelor degree in Computer Science
 
