@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/alena-gs/" target="_blank">Alena</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="32" height="32"/></h1>
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AB75BD&width=435&lines=QA+Automation;Quality+Assurance+Engineer;Mobile+testing;Web+testing;API+testing" alt="Typing SVG" /></a>
 
 
